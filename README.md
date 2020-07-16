@@ -45,7 +45,7 @@ Training script:
 python train_cifar.py --gpus 0 --num-epochs 400 --mode hybrid -j 32 --batch-size 128 --wd 0.0001 --lr 0.2 --lr-decay 0.1 --lr-decay-epoch 300,350 --dataset cifar100 --model atac --act-type ChaATAC --useReLU --r 2 --blocks 3
 ```
 
-![](https://raw.githubusercontent.com/YimianDai/imgbed/master/github/atac/atac_cifar100_activation_c_1.png | width=100)
+![](https://raw.githubusercontent.com/YimianDai/imgbed/master/github/atac/atac_cifar100_activation_c_1.png)
 
 <!--<img src=https://raw.githubusercontent.com/YimianDai/imgbed/master/github/atac/atac_cifar100_activation_c_1.png width=400%>-->
 
