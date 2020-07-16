@@ -47,7 +47,7 @@ python train_cifar.py --gpus 0 --num-epochs 400 --mode hybrid -j 32 --batch-size
 
 <!--![](https://raw.githubusercontent.com/YimianDai/imgbed/master/github/atac/atac_cifar100_activation_c_1.png)-->
 
-<img src=https://raw.githubusercontent.com/YimianDai/imgbed/master/github/atac/atac_cifar100_activation_c_1.png width=25%>
+<img src=https://raw.githubusercontent.com/YimianDai/imgbed/master/github/atac/atac_cifar100_activation_c_1.png width=50%>
 
 ## References
 
