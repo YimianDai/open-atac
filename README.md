@@ -1,12 +1,12 @@
 Attention as Activation
 ==============
 
-MXNet/Gluon code for "Attention as Activation"
+MXNet/Gluon code for "Attention as Activation" <https://arxiv.org/abs/2007.07729>
 
 What's in this repo so far:
 
  * Code for CIFAR-10 and CIFAR-100 experiments with a varying network depth
- * Code for ImageNet experiments
+ * Code, trained model, and training log for ImageNet experiments
  
 ## Requirements
  
