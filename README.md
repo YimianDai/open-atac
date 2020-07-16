@@ -35,7 +35,7 @@ The trained model params and training log are in `./params`
 | AA-ResNet-50 [[3]](#3)     | 8.3     | 25.8M   | 22.30       | 6.20        |
 | FA-ResNet-50 [[4]](#4)     | 7.2     | 18.0M   | 22.40       | /           |
 | GE-𝜽^+-ResNet-50 [[5]](#5) | 3.87    | 33.7M   | 21.88       | 5.80        |
-| ATAC-ResNet-50 (ours)      | 4.4     | 28.0M   | 21.41       | 6.02        |    |
+| ATAC-ResNet-50 (**ours**)  | 4.4     | 28.0M   | **21.41**   | 6.02        |    |
 
 
 ### CIFAR-10 and CIFAR-100
